@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 112,
-    "timeDay": 219,
-    "timeWeek": 151,
-    "timeMonth": 114,
-    "timeYear": 112,
-    "dailyMinutesDown": {
-      "2024-10-07": 6
-    }
+    "time": 114,
+    "timeDay": 240,
+    "timeWeek": 161,
+    "timeMonth": 117,
+    "timeYear": 114,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 253,
-    "timeDay": 175,
-    "timeWeek": 163,
-    "timeMonth": 250,
-    "timeYear": 253,
+    "time": 252,
+    "timeDay": 231,
+    "timeWeek": 190,
+    "timeMonth": 252,
+    "timeYear": 252,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 312,
-    "timeDay": 447,
-    "timeWeek": 301,
-    "timeMonth": 310,
+    "timeDay": 309,
+    "timeWeek": 326,
+    "timeMonth": 315,
     "timeYear": 312,
     "dailyMinutesDown": {}
   }
